@@ -1,0 +1,2 @@
+.mainCont{align-items:center;display:flex;flex-wrap:wrap;justify-content:space-evenly;margin:auto;width:80%}.item,.itemCont{width:300px}@media screen and (max-width:719px){.mainCont{align-items:center;flex-direction:column;flex-wrap:nowrap;justify-content:center;margin:auto}.item,.itemCont{width:100%}.card{margin:auto}}
+/*# sourceMappingURL=main.b5d91787.css.map*/
